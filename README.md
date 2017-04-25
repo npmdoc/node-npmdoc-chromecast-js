@@ -1,4 +1,7 @@
-# api documentation for  [chromecast-js (v0.1.7)](https://github.com/guerrerocarlos/chromecast-js)  [![npm package](https://img.shields.io/npm/v/npmdoc-chromecast-js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-chromecast-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-chromecast-js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-chromecast-js)
+# npmdoc-chromecast-js
+
+#### basic api documentation for  [chromecast-js (v0.1.7)](https://github.com/guerrerocarlos/chromecast-js)  [![npm package](https://img.shields.io/npm/v/npmdoc-chromecast-js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-chromecast-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-chromecast-js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-chromecast-js)
+
 #### Chromecast/Googlecast streaming module all in JS
 
 [![NPM](https://nodei.co/npm/chromecast-js.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/chromecast-js)
@@ -59,7 +62,8 @@
         "url": "git+https://github.com/guerrerocarlos/chromecast-js.git"
     },
     "scripts": {},
-    "version": "0.1.7"
+    "version": "0.1.7",
+    "bin": {}
 }
 ```
 
